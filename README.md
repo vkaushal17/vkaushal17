@@ -33,3 +33,4 @@
 ### Connect with me
 <a href="mailto:kaushalvarsha39@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/varsha-kaushal-039b651a9/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/varshakaushal12"><img alt="Twitter" src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fhelp.twitter.com%2Fcontent%2Fdam%2Fhelp-twitter%2Fbrand%2Flogo.png&imgrefurl=https%3A%2F%2Fhelp.twitter.com%2F&tbnid=hmDQk9fGbbztiM&vet=12ahUKEwiNq8ydyPnvAhUtnEsFHQ3ABUoQMygBegUIARDRAQ..i&docid=sMHf-hJWbXwREM&w=400&h=400&q=twitter&ved=2ahUKEwiNq8ydyPnvAhUtnEsFHQ3ABUoQMygBegUIARDRAQ" /></a>
