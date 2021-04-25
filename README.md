@@ -27,8 +27,7 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 <br /> <br />
-## &#x1f4c8; GitHub Stats
-![](https://komarev.com/ghpvc/?username=vkaushal17)
+
 <img  src="https://github-readme-stats.vercel.app/api?username=vkaushal17&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
 ### Connect with me
 <a href="mailto:kaushalvarsha39@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
