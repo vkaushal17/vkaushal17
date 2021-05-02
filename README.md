@@ -27,6 +27,10 @@
 <br /> <br />
 
 <img  src="https://github-readme-stats.vercel.app/api?username=vkaushal17&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
+ 
+**⚙️ Visitors Count:**
+<br>
+![Visitor Count](https://profile-counter.glitch.me/{vkaushal17}/count.svg)
 ### Connect with me
 <a href="mailto:kaushalvarsha39@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/varsha-kaushal-039b651a9/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
